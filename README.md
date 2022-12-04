@@ -3,11 +3,12 @@
 
 Sou um FullStack Developer 💻
 
-#🚀   Buscando novos desafios
-#💜   Buscando colaborar com projetos desafiadores
-💻   Minha stack: HTML, CSS e JavaScript
-📘   Estudando: ReactJS, Node.js, React Native & Typescript
-💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar Valorant com amigos, aprecio um bom café, séries e momentos com a família.
+- 🚀    Buscando novos desafios
+- 👯    Buscando colaborar com projetos desafiadores
+- 💻    Minha stack: HTML, CSS e JavaScript
+- 📘    Estudando: ReactJS, Node.js & React Native
+- 💬   Sobre mim: Gosto de tecnologias, de pensar em ideias empreendedoras, jogar Valorant com amigos, aprecio um bom café, séries e momentos com a família.
+
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
